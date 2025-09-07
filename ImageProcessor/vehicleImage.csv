@@ -1,1 +1,6 @@
 User rear,User left-front-side,User right-front-side,Cropped rear,Cropped left-front-side,Cropped right-front-side,Damage percentage
+CarsImage/img/36.jpg,CarsImage/img/71.jpg,CarsImage/img/48.jpg,crops\36_User_rear_crop.jpg,,crops\48_User_right-front-side_crop.jpg,
+CarsImage/img/37.jpg,CarsImage/img/33.jpg,CarsImage/img/51.jpg,crops\37_User_rear_crop.jpg,crops\33_User_left-front-side_crop.jpg,crops\51_User_right-front-side_crop.jpg,
+CarsImage/img/30.jpg,CarsImage/img/39.jpg,CarsImage/img/31.jpg,crops\30_User_rear_crop.jpg,crops\39_User_left-front-side_crop.jpg,crops\31_User_right-front-side_crop.jpg,
+CarsImage/img/57.jpg,CarsImage/img/52.jpg,CarsImage/img/41.jpg,,crops\52_User_left-front-side_crop.jpg,crops\41_User_right-front-side_crop.jpg,
+CarsImage/img/15.jpg,CarsImage/img/70.jpg,CarsImage/img/34.jpg,crops\15_User_rear_crop.jpg,crops\70_User_left-front-side_crop.jpg,crops\34_User_right-front-side_crop.jpg,
