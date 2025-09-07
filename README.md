@@ -1,6 +1,9 @@
 # Car Insurance App (CodeNection Hackathon Project)
 
 ## 🚗 Overview
+This project is dedicated for Industry Collaboration track
+Problem Statement:
+When buying or renewing car insurance online, users often mistype or enter incorrect vehicle details (e.g., plate number, car model, year of manufacture). These mistakes can delay policy approval, cause pricing errors, or even lead to invalid insurance coverage. We plan to build a smart system that detects and corrects typos or inaccurate vehicle input specifications in real time – ensuring smoother, faster, and more reliable insurance applications.
 This project is built for the **CodeNection Hackathon**.  
 It is a **digital-first car insurance platform** that combines typo detection, decentralized insurance data storage, and vehicle damage evaluation using machine learning.
 
