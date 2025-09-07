@@ -6,7 +6,10 @@ It is a **digital-first car insurance platform** that combines typo detection, d
 
 ### ✨ Key Features
 - **Smart Typo Checking**  
-  Detects typos in user input for car brand, model, and validity of manufacturing year, then predicts the correct entry using a machine learning model (Fuzzy Matching).
+  Detects typos in user input for car brand, model, and validity of manufacturing year, then predicts the correct entry using a machine learning model (gotutiyan/gector-roberta-base-5k", torch_dtype="auto") transformer).
+  GECToR treats error correction as sequence tagging.
+  This one is fine-tuned on error correction tasks, so it learns how to detect and correct grammar, spelling, and word choice errors directly.
+  We can just incorporate user_inputs.csv file into this transformer and all can run pretty smooth 
 
 - **Decentralized Insurance Data**  
   A complete, secure, blockchain-backed system to store car details, user policies, and insurance schemes — making it fully digitalized and easily accessible. Blockchain data storage ensures transparency for validation, yet providing satisfying data security.
